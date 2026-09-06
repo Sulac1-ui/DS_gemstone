@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: mlproject_regression
+Version: 0.0.1
+Author: Sulav Shrestha
+Author-email: sulavs84@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: kagglehub
+Requires-Dist: catboost
+Requires-Dist: xgboost
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

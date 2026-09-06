@@ -1,0 +1,16 @@
+README.md
+setup.py
+mlproject_regression.egg-info/PKG-INFO
+mlproject_regression.egg-info/SOURCES.txt
+mlproject_regression.egg-info/dependency_links.txt
+mlproject_regression.egg-info/requires.txt
+mlproject_regression.egg-info/top_level.txt
+src/__init__.py
+src/exceptions.py
+src/logger.py
+src/utils.py
+src/Components/Data_ingestion.py
+src/Components/Data_transformation.py
+src/Components/Model_trainer.py
+src/Components/__init__.py
+src/Pipeline/__init__.py
