@@ -1,0 +1,24 @@
+[ 2026-09-07 12:54:39,258 ] 25 root - INFO - started Data Ingestion method
+[ 2026-09-07 12:54:39,315 ] 30 root - INFO - Dataset read as pandas Dataframe
+[ 2026-09-07 12:54:39,648 ] 36 root - INFO - Train and Test Split Initiating
+[ 2026-09-07 12:54:39,986 ] 43 root - INFO - Training and Testing Done!!
+[ 2026-09-07 12:54:40,038 ] 78 root - INFO - Reading test and train dataset completed. 
+[ 2026-09-07 12:54:40,040 ] 79 root - INFO - Training Head 
+        id  carat      cut color clarity  depth  table     x     y     z  price
+0   83475   0.32  Premium     E     SI1   61.6   58.0  4.38  4.41  2.71    614
+1  160324   1.20  Premium     F     VS2   62.6   57.0  6.81  6.76  4.25   7002
+2  101740   1.50    Ideal     I     VS2   62.2   55.0  7.30  7.26  4.53   9347
+3  180341   1.67  Premium     I     SI2   61.9   59.0  7.65  7.61  4.71   8525
+4   48480   1.00     Good     H     VS2   63.7   60.0  6.34  6.30  4.02   5217
+[ 2026-09-07 12:54:40,041 ] 80 root - INFO - Testing Head 
+        id  carat        cut color clarity  depth  table     x     y     z  price
+0   14868   0.50      Ideal     D     SI1   62.1   57.0  5.05  5.08  3.14   1355
+1  165613   2.00  Very Good     G     SI2   59.5   57.0  8.08  8.15  4.89  14691
+2   96727   0.27    Premium     E    VVS1   60.5   59.0  4.19  4.16  2.52    844
+3  145593   0.32    Premium     I    VVS1   61.2   59.0  4.43  4.44  2.71    707
+4  118689   1.19      Ideal     H     SI1   62.5   56.0  6.77  6.81  4.23   5797
+[ 2026-09-07 12:54:40,041 ] 83 root - INFO - Obtaining preprocessing object
+[ 2026-09-07 12:54:40,041 ] 57 root - INFO - Categorical Columns"['cut', 'color', 'clarity']
+[ 2026-09-07 12:54:40,041 ] 58 root - INFO - Numerical Columns   : ['carat', 'depth', 'table', 'x', 'y', 'z']
+[ 2026-09-07 12:54:40,042 ] 97 root - INFO - Applying preprocessing object on training and testing datasets.
+[ 2026-09-07 12:54:40,163 ] 111 root - INFO - Preprocessor pickle file saved

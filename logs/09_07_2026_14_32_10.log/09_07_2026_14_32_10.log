@@ -1,0 +1,52 @@
+[ 2026-09-07 14:32:10,566 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2026-09-07 14:32:10,578 ] 97 werkzeug - INFO -  * Debugger PIN: 607-581-641
+[ 2026-09-07 14:32:14,549 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:32:14] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[ 2026-09-07 14:32:14,556 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:32:14] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2026-09-07 14:32:14,556 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:32:14] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2026-09-07 14:32:14,564 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:32:14] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=dYaLI3cP2obnTfHPnLuS HTTP/1.1" 200 -
+[ 2026-09-07 14:33:27,709 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:33:27] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[ 2026-09-07 14:33:27,719 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:33:27] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2026-09-07 14:33:27,720 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:33:27] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2026-09-07 14:33:27,734 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:33:27] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=dYaLI3cP2obnTfHPnLuS HTTP/1.1[0m" 304 -
+[ 2026-09-07 14:33:32,089 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:33:32] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[ 2026-09-07 14:33:32,093 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:33:32] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2026-09-07 14:33:32,093 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:33:32] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2026-09-07 14:33:32,096 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:33:32] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=dYaLI3cP2obnTfHPnLuS HTTP/1.1[0m" 304 -
+[ 2026-09-07 14:34:07,109 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:34:07] "GET / HTTP/1.1" 200 -
+[ 2026-09-07 14:34:07,119 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:34:07] "GET /static/style.css HTTP/1.1" 200 -
+[ 2026-09-07 14:34:35,583 ] 61 root - INFO - Dataframe Gathered
+[ 2026-09-07 14:34:35,831 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:34:35] "POST /predict HTTP/1.1" 200 -
+[ 2026-09-07 14:34:35,842 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:34:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2026-09-07 14:34:42,244 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:34:42] "GET /predict HTTP/1.1" 200 -
+[ 2026-09-07 14:34:42,247 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:34:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2026-09-07 14:35:22,023 ] 61 root - INFO - Dataframe Gathered
+[ 2026-09-07 14:35:22,051 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:35:22] "POST /predict HTTP/1.1" 200 -
+[ 2026-09-07 14:35:22,057 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:35:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2026-09-07 14:35:59,200 ] 61 root - INFO - Dataframe Gathered
+[ 2026-09-07 14:35:59,230 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:35:59] "POST /predict HTTP/1.1" 200 -
+[ 2026-09-07 14:35:59,561 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:35:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2026-09-07 14:36:01,763 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:36:01] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2026-09-07 14:36:01,772 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:36:01] "GET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2026-09-07 14:36:01,772 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:36:01] "GET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2026-09-07 14:36:01,777 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:36:01] "GET /predict?__debugger__=yes&cmd=resource&f=console.png&s=dYaLI3cP2obnTfHPnLuS HTTP/1.1" 200 -
+[ 2026-09-07 14:36:01,786 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:36:01] "GET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2026-09-07 14:36:05,897 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:36:05] "GET /predict HTTP/1.1" 200 -
+[ 2026-09-07 14:36:05,900 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:36:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2026-09-07 14:37:17,205 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:37:17] "GET /predict HTTP/1.1" 200 -
+[ 2026-09-07 14:37:17,209 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:37:17] "GET /static/style.css HTTP/1.1" 200 -
+[ 2026-09-07 14:38:35,774 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:38:35] "GET /predict HTTP/1.1" 200 -
+[ 2026-09-07 14:38:35,782 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:38:35] "GET /static/style.css HTTP/1.1" 200 -
+[ 2026-09-07 14:38:53,402 ] 61 root - INFO - Dataframe Gathered
+[ 2026-09-07 14:38:53,433 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:38:53] "POST /predict HTTP/1.1" 200 -
+[ 2026-09-07 14:38:53,441 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:38:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2026-09-07 14:39:27,045 ] 61 root - INFO - Dataframe Gathered
+[ 2026-09-07 14:39:27,077 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:39:27] "POST /predict HTTP/1.1" 200 -
+[ 2026-09-07 14:39:27,082 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:39:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2026-09-07 14:41:01,312 ] 61 root - INFO - Dataframe Gathered
+[ 2026-09-07 14:41:01,348 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:41:01] "POST /predict HTTP/1.1" 200 -
+[ 2026-09-07 14:41:01,359 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:41:01] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[ 2026-09-07 14:41:01,360 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:41:01] "[32mGET /static//Image/your_profile_pic.jpg HTTP/1.1[0m" 308 -
+[ 2026-09-07 14:41:01,365 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:41:01] "[33mGET /static/Image/your_profile_pic.jpg HTTP/1.1[0m" 404 -
+[ 2026-09-07 14:41:19,552 ] 61 root - INFO - Dataframe Gathered
+[ 2026-09-07 14:41:19,582 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:41:19] "POST /predict HTTP/1.1" 200 -
+[ 2026-09-07 14:41:19,587 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2026 14:41:19] "GET /static/style.css HTTP/1.1" 200 -
