@@ -1,2 +1,18 @@
+[project]
+name = "ds-gemstone"
+version = "0.1.0"
+description = "Gemstone Price Prediction ML Project"
+requires-python = ">=3.10"
+dependencies = [
+    "flask",
+    "scikit-learn",
+    "catboost",
+    "xgboost",
+    "pandas",
+    "numpy",
+    "joblib",
+    "gunicorn"
+]
+
 [tool.vercel]
 entrypoint = "application:application"
